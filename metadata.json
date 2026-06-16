@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Task & Reward System",
+  "description": "A premium Apple-style Liquid Glass task and reward dashboard with Telegram verification, multi-level referrals, and live withdrawals management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
